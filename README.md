@@ -25,5 +25,5 @@ This Python application simulates an X-ray scanning system for maritime shipping
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/eddy1200-bot/x-ray_scanner.git
-   cd x-ray_scanner
+   git clone https://github.com/eddy1200-bot/X-ray_scanner.git
+   cd X-ray_scanner
