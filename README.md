@@ -1,6 +1,6 @@
 # Maritime Container X-ray Fraud Detection
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](picture.png)
 
 ## Overview
 
